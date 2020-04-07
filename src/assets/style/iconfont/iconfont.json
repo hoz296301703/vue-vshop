@@ -1,0 +1,191 @@
+{
+  "id": "949766",
+  "name": "ymApp",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7631",
+      "name": "减",
+      "font_class": "jian",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "83469",
+      "name": "搜索",
+      "font_class": "weibiaoti1",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "309946",
+      "name": "weixin",
+      "font_class": "weixin1",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "400101",
+      "name": "详情",
+      "font_class": "htmal5icon28",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "595407",
+      "name": "主页",
+      "font_class": "zhuye",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "840999",
+      "name": "待收货",
+      "font_class": "icon3",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "920644",
+      "name": "gouwuche",
+      "font_class": "gouwuche",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "1016378",
+      "name": "编辑",
+      "font_class": "bianji",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "1356142",
+      "name": "勾",
+      "font_class": "gou",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "1624907",
+      "name": "删除",
+      "font_class": "icon-test",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "2593013",
+      "name": "添加",
+      "font_class": "add",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "2756897",
+      "name": "店铺",
+      "font_class": "dianpu",
+      "unicode": "e6b7",
+      "unicode_decimal": 59063
+    },
+    {
+      "icon_id": "2785239",
+      "name": "用户1",
+      "font_class": "user-1",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "3449238",
+      "name": "zuo",
+      "font_class": "zuo",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "4784113",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "4854823",
+      "name": "关闭",
+      "font_class": "guanbi1",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "5116416",
+      "name": "类目 品类 分类 类别.2",
+      "font_class": "leimupinleifenleileibie2",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "6129208",
+      "name": "164购物车",
+      "font_class": "gouwuche1",
+      "unicode": "e7a6",
+      "unicode_decimal": 59302
+    },
+    {
+      "icon_id": "6204100",
+      "name": "右",
+      "font_class": "you",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "6228179",
+      "name": "待评价",
+      "font_class": "daipingjia",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "6747287",
+      "name": "关  闭",
+      "font_class": "guanbi",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "7407561",
+      "name": "聊天",
+      "font_class": "liaotian",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "7450624",
+      "name": "评价星星",
+      "font_class": "pingjiaxingxing",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "7497015",
+      "name": "限时秒杀",
+      "font_class": "xianshimiaosha",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "8348123",
+      "name": "警告",
+      "font_class": "jinggao",
+      "unicode": "e71b",
+      "unicode_decimal": 59163
+    },
+    {
+      "icon_id": "10143467",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    }
+  ]
+}
